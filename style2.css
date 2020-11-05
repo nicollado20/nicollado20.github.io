@@ -35,7 +35,7 @@ img {
      background-color: black;
      }
 p {
-    background-color: white;
+    background-image:url("sky.jpg");
     text-align:justify;
     text-justify: inter-word;
     }
