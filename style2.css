@@ -40,7 +40,17 @@ p {
     text-align:justify;
     text-justify: inter-word;
     }
-
+.hor-nav{
+	padding:5px 5px;
+background-color:#0000ff;
+border-top: 5px red solid;
+border-right:5px green solid;
+border-bottom: 5px yellow solid;
+border-left: 5px gray solid;
+text-align: center;
+text-decoration:dotted;
+border-size: 10px;
+ }
 
 .hor-nav {
 overflow: hidden;
