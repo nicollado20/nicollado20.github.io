@@ -78,6 +78,6 @@ border-size: 10px;
 
 .hor-nav .active {
   background-color: green;
-  color: white;
+  color: black solid;
 }
  
